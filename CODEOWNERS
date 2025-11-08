@@ -1,0 +1,4 @@
+# test add codeowners for sql files,
+# once the github.com/surasithaof/test-sql-action merged
+# and create a pr here, will auto assign to me.
+*.sql surasithaof
